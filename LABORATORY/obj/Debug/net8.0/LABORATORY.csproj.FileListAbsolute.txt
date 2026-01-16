@@ -1,0 +1,15 @@
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/bin/Debug/net8.0/LABORATORY
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/bin/Debug/net8.0/LABORATORY.deps.json
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/bin/Debug/net8.0/LABORATORY.runtimeconfig.json
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/bin/Debug/net8.0/LABORATORY.dll
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/bin/Debug/net8.0/LABORATORY.pdb
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/obj/Debug/net8.0/LABORATORY.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/obj/Debug/net8.0/LABORATORY.AssemblyInfoInputs.cache
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/obj/Debug/net8.0/LABORATORY.AssemblyInfo.cs
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/obj/Debug/net8.0/LABORATORY.csproj.CoreCompileInputs.cache
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/obj/Debug/net8.0/LABORATORY.sourcelink.json
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/obj/Debug/net8.0/LABORATORY.dll
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/obj/Debug/net8.0/refint/LABORATORY.dll
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/obj/Debug/net8.0/LABORATORY.pdb
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/obj/Debug/net8.0/LABORATORY.genruntimeconfig.cache
+/workspaces/2ND-YEAR-OPS-LABORATORY/LABORATORY/obj/Debug/net8.0/ref/LABORATORY.dll
